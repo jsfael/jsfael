@@ -19,7 +19,6 @@
 - Entusiasta de <b>desenvolvimento de software</b> e tecnologia.<br>
 - Tenho interesse na área de <b>segurança da informação</b>.<br>
 - Atualmente estudando Java, React e DevOps.<br>
-- Sempre buscando evoluir e aprofundar meus conhecimentos em computação.
 
     </samp>
   </div>
