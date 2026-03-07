@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jsfael/jsfael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre><i>Talk is cheap. Show me the code.</i></pre>
+  <p align="center">
+    <samp>
+      [<a href="mailto:tech.rafaellima@gmail.com" target="_blank">tech.rafaellima@gmail.com</a>]
+      [<a href="https://discord.com/users/321338095259877377" target="_blank">discord</a>]
+      [<a href="https://www.linkedin.com/in/jsfael/" target="_blank">linkedin</a>]
+    </samp>
+  </p>
+<h2></h2>
 
-Here are some ideas to get you started:
+<div align="left"> 
+  <samp>/about</samp>
+  <div>
+    <samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante de <b>Ciência da Computação</b> na <b>Universidade Estadual do Ceará</b>.<br>
+- Entusiasta de <b>desenvolvimento de software</b> e tecnologia.<br>
+- Tenho interesse na área de <b>segurança da informação</b>.<br>
+- Atualmente estudando Java, React e DevOps.<br>
+- Sempre buscando evoluir e aprofundar meus conhecimentos em computação.
+
+    </samp>
+  </div>
+</div>
+
+<h2></h2>
+
+<div align="left"> 
+  
+  <samp>/links</samp>
+
+  <p align="left">
+    <samp>
+      [<a href=" " target="_blank">trabalhando nisso...</a>]
+    </samp>
+  </p>
+</div>
+<br>
+</div>
