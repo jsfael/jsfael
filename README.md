@@ -15,7 +15,7 @@
 <h2></h2>
 
 <div align="left"> 
-  <samp>/about</samp>
+  <samp>/sobre-mim</samp>
   <div>
     <samp>
 
