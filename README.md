@@ -17,7 +17,6 @@
 <div align="left"> 
   <samp>/about</samp>
   <div>
-    
     <samp>
 
 - Estudante de <b>Ciência da Computação</b> na <b>Universidade Estadual do Ceará</b>.<br>
@@ -25,10 +24,9 @@
 - Tenho interesse na área de <b>segurança da informação</b>.<br>
 - Atualmente estudando Java, React e DevOps.<br>
 
-      </samp>
-
-    </div>
+    </samp>
   </div>
+</div>
 
 <h2></h2>
 
