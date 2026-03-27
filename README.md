@@ -40,6 +40,5 @@
     </samp>
   </p>
 
-<pre><i>Talk is cheap. Show me the code.</i></pre>
 <br>
 </div>
