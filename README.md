@@ -2,17 +2,8 @@
   <img src="./banner.png" alt="top-banner" />
 </p>
 
+
 <div align="center">
-
-  <p align="center">
-    <samp>
-      [<a href="mailto:tech.rafaellima@gmail.com" target="_blank">tech.rafaellima@gmail.com</a>]
-      [<a href="https://discord.com/users/321338095259877377" target="_blank">discord</a>]
-      [<a href="https://www.linkedin.com/in/jsfael/" target="_blank">linkedIn</a>]
-    </samp>
-  </p>
-
-<h2></h2>
 
 <div align="left"> 
   <samp>/sobre-mim</samp>
@@ -40,6 +31,14 @@
 </div>
 
 <h2></h2>
+
+  <p align="center">
+    <samp>
+      [<a href="mailto:tech.rafaellima@gmail.com" target="_blank">tech.rafaellima@gmail.com</a>]
+      [<a href="https://discord.com/users/321338095259877377" target="_blank">discord</a>]
+      [<a href="https://www.linkedin.com/in/jsfael/" target="_blank">linkedIn</a>]
+    </samp>
+  </p>
 
 <pre><i>Talk is cheap. Show me the code.</i></pre>
 <br>
