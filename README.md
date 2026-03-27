@@ -17,6 +17,7 @@
 <div align="left"> 
   <samp>/about</samp>
   <div>
+    
     <samp>
 
 - Estudante de <b>Ciência da Computação</b> na <b>Universidade Estadual do Ceará</b>.<br>
