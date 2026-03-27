@@ -2,6 +2,8 @@
   <img src="./banner.png" alt="top-banner" />
 </p>
 
+<h2></h2>
+
 <div align="center">
 
   <p align="center">
@@ -11,6 +13,7 @@
       [<a href="https://www.linkedin.com/in/jsfael/" target="_blank">linkedIn</a>]
     </samp>
   </p>
+
 <h2></h2>
 
 <div align="left"> 
@@ -37,6 +40,9 @@
     </samp>
   </p>
 </div>
+
+<h2></h2>
+
 <pre><i>Talk is cheap. Show me the code.</i></pre>
 <br>
 </div>
