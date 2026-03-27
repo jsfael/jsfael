@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<pre><i>Talk is cheap. Show me the code.</i></pre>
   <p align="center">
     <samp>
       [<a href="mailto:tech.rafaellima@gmail.com" target="_blank">tech.rafaellima@gmail.com</a>]
@@ -38,5 +37,6 @@
     </samp>
   </p>
 </div>
+<pre><i>Talk is cheap. Show me the code.</i></pre>
 <br>
 </div>
