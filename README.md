@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Banner.png" alt="top-banner" />
+</p>
+
 <div align="center">
 
 <pre><i>Talk is cheap. Show me the code.</i></pre>
@@ -20,9 +24,10 @@
 - Tenho interesse na área de <b>segurança da informação</b>.<br>
 - Atualmente estudando Java, React e DevOps.<br>
 
-    </samp>
+      </samp>
+
+    </div>
   </div>
-</div>
 
 <h2></h2>
 
