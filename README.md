@@ -2,8 +2,6 @@
   <img src="./banner.png" alt="top-banner" />
 </p>
 
-<h2></h2>
-
 <div align="center">
 
   <p align="center">
