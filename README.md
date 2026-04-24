@@ -35,13 +35,7 @@
 
   <p align="left">
     <samp>
-      [<a href=" " target="_blank">00</a>]
-    </samp>
-    <samp>
-      [<a href=" " target="_blank">01</a>]
-    </samp>
-    <samp>
-      [<a href=" " target="_blank">02</a>]
+      [<a href=" " target="_blank">Trabalhando nisso...</a>]
     </samp>
   </p>
 </div>
